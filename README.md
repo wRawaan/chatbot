@@ -56,7 +56,7 @@ This is an actively evolving project. The current version covers the core conver
 1. **Clone the repository**
 
    ```bash
-   git clone  https://github.com/wRawaan/chatbot.git
+   git clone https://github.com/wRawaan/chatbot.git
    cd chatbot
    ```
 
