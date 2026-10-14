@@ -56,8 +56,8 @@ This is an actively evolving project. The current version covers the core conver
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/<your-username>/<your-repo-name>.git
-   cd <your-repo-name>
+   git clone  https://github.com/wRawaan/chatbot.git
+   cd chatbot
    ```
 
 2. **(Recommended) Create a virtual environment**
@@ -143,7 +143,7 @@ For bugs or feature ideas, please open an issue.
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). *(Update this section to match your chosen license.)*
+This project is licensed under the [MIT License](LICENSE). 
 
 ---
 
